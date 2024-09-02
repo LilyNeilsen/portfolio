@@ -9,10 +9,3 @@ My name is Lily Neilsen (she/her) and I am a graduate student in the Master of S
 I hope to learn more about how I can use this in government work, and if and how it is already being used at local, state, federal, and international levels of government.
 
 
-# Some of the work I did during this course:
-
-# Assignment 3
-
-# Assignment 4
-
-# Final Project
