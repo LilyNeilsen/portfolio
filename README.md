@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 This is my public portfolio for my Telling Stories with Data course that I'm taking in Heinz College at Carnegie Mellon University
 
@@ -7,3 +7,12 @@ My name is Lily Neilsen and I am a graduate student in the Master of Science in 
 
 # What I hope to learn
 I hope to learn more about how I can use this in government work, and if and how it is already being used at local, state, federal, and international levels of government.
+
+
+# Some of the work I did during this course:
+
+# Assignment 3
+
+# Assignment 4
+
+# Final Project
