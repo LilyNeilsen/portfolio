@@ -1,6 +1,5 @@
 # portfolio
 
-# Portfolio
 This is my public portfolio for my Telling Stories with Data course that I'm taking in Heinz College at Carnegie Mellon University
 
 # About me 
